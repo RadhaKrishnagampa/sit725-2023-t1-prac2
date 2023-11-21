@@ -1,0 +1,22 @@
+{
+  "name": "assignmentsrk",
+  "version": "1.0.0",
+  "description": "sit 725 T3 week 2 prac",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadhaKrishnagampa/sit725-2023-t1-prac2.git"
+  },
+  "author": "Radha Krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadhaKrishnagampa/sit725-2023-t1-prac2/issues"
+  },
+  "homepage": "https://github.com/RadhaKrishnagampa/sit725-2023-t1-prac2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
